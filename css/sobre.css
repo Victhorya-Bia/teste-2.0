@@ -1,0 +1,11 @@
+/* Muda a cor de fundo da página */
+body {
+  background-color: #cd87df;
+}
+
+/* Altera a fonte do título */
+h1 {
+  font-family: 'Arial', sans-serif;
+  color: #1f22ff;
+  text-align: center;
+}
